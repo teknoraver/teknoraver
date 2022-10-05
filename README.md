@@ -1,5 +1,5 @@
 ## Ciao 👋🏻
-I'm (trying to be) a Linux kernel developer, working at [@microsoft](http://github.com/microsoft) (formerly Red Hat and Canonical).  
+I'm (trying to be) a Linux kernel developer, working at [@facebook](http://github.com/facebook) (formerly Microsoft, Red Hat and Canonical).  
 I've been using Linux since 2003, my favourite distros are Debian and Fedora, and KDE Plasma is my desktop of choice.
 
 I'm a big open source supporter, so I contribute to OSS projects whenever possible.  
