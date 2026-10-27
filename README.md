@@ -1,20 +1,18 @@
 ## Ciao 👋🏻
-I'm (trying to be) a Linux kernel developer, formerly at [Meta](https://github.com/facebook), Microsoft, Red Hat and Canonical.  
-I've been using Linux since 2003, my favourite distros are Debian and Fedora, and KDE Plasma is my desktop of choice.
+I'm a Linux kernel and systems engineer: BPF, networking, resource control, and the occasional embedded hack.  
+Previously at Meta, Microsoft, Red Hat and Canonical. Linux user since 2003, Debian/Fedora + KDE Plasma.
 
-I'm a big open source supporter, so I contribute to OSS projects whenever possible.  
-To name a few:
-[Linux](https://github.com/torvalds/linux/commits?author=teknoraver) (BPF, networking, mm and more),
-[systemd](https://github.com/systemd/systemd/commits?author=teknoraver),
-[OpenWrt](https://github.com/openwrt/openwrt/commits?author=teknoraver),
-[iproute2](https://github.com/shemminger/iproute2/commits?author=teknoraver),
-[Snap](https://github.com/snapcore/snapd/commits?author=teknoraver),
-[Open vSwitch](https://github.com/openvswitch/ovs/commits?author=teknoraver),
-[RPM](https://github.com/rpm-software-management/rpm/commits?author=teknoraver),
-[u-root](https://github.com/u-root/u-root/commits?author=teknoraver),
-[SANE](https://gitlab.com/sane-project/backends/-/commits/master?author=Matteo%20Croce),
-[BusyBox](https://git.busybox.net/busybox/log/?qt=grep&q=Matteo+Croce),
-and lots of small fixes and PRs here and there... 🙂
+Some things I've worked on:
+* systemd-oomd and RPM copy-on-write at Meta
+* page_pool skb recycling in the network stack
+* optimized string routines for RISC-V
+
+I contribute upstream whenever I can:
+* **Kernel & low level:** [Linux](https://github.com/torvalds/linux/commits?author=teknoraver), [u-root](https://github.com/u-root/u-root/commits?author=teknoraver), [BusyBox](https://git.busybox.net/busybox/log/?qt=grep&q=Matteo+Croce)
+* **Userspace:** [systemd](https://github.com/systemd/systemd/commits?author=teknoraver), [RPM](https://github.com/rpm-software-management/rpm/commits?author=teknoraver), [Snap](https://github.com/snapcore/snapd/commits?author=teknoraver), [SANE](https://gitlab.com/sane-project/backends/-/commits/master?author=Matteo%20Croce)
+* **Networking:** [Open vSwitch](https://github.com/openvswitch/ovs/commits?author=teknoraver), [iproute2](https://github.com/shemminger/iproute2/commits?author=teknoraver), [OpenWrt](https://github.com/openwrt/openwrt/commits?author=teknoraver)
+
+…plus lots of small fixes here and there 🙂
 
 Despite my efforts to contribute to science, my most recognized works are April fools:
 * https://sourceware.org/pipermail/libc-alpha/2016-April/069898.html
