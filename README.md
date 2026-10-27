@@ -1,6 +1,6 @@
 ## Ciao 👋🏻
 I'm a Linux kernel and systems engineer: BPF, networking, resource control, and the occasional embedded hack.  
-Previously at Meta, Microsoft, Red Hat and Canonical. Linux user since 2003, Debian/Fedora + KDE Plasma.
+Over the years I've worked at Meta, Microsoft, Red Hat and Canonical. Linux user since 2003, Debian/Fedora + KDE Plasma.
 
 Some things I've worked on:
 * systemd-oomd and RPM copy-on-write at Meta
